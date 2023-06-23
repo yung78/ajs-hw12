@@ -3,7 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/4ltwodf9yoccm24t?svg=true)](https://ci.appveyor.com/project/yung78/ajs-hw12)
 
 В консоль в странном порядке данные идут(скрин прикрепил), вроде все синхронно должно идти, по очереди… По тестам все ок… Почему так происходит?
-![alt text](странные дела.png "Вопросики")
+![alt text](https://github.com/yung78/ajs-hw12/blob/main/%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B4%D0%B5%D0%BB%D0%B0.png "Вопросики")
 
 
 В последнем задании закомментил кусок, почему-то, даже после Явной проверки на присутствие свойства’count’ (или сравнении в условной конструкции с undefind) у определенной сущности из Cart.items, программа ругалась на математические операции ( can be undefind).
